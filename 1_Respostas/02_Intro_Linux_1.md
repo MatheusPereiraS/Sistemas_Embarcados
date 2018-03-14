@@ -50,4 +50,4 @@
 
 	
 
-	R: (a): man. (b): ls. (c): pwd. (d): cd. (e): mkdir. (f): rm. (g): rmdir. (h): cp. (i): cp -r. (j): mv. (k): mv -r. (l): mv Pasta_Antiga Nova_Pasta. (m): cat. (n): file. (o): clear. (p): grep "padrão" Arquivo. (q): sort Arquivo.txt. (r): sed - 's/Substituido/substituto' Arquivo.txt. (s): diff. (t): nano/cat?. 
+	R: (a): man. (b): ls. (c): pwd. (d): cd. (e): mkdir. (f): rm. (g): rmdir. (h): cp. (i): cp -r. (j): mv. (k): mv -r. (l): mv Pasta_Antiga Nova_Pasta. (m): cat. (n): file. (o): clear. (p): grep "padrão" Arquivo. (q): sort Arquivo.txt. (r): sed - 's/Substituido/substituto' Arquivo.txt. (s): diff. (t): echo. 
