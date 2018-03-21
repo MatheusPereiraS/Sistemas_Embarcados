@@ -16,7 +16,6 @@ ola_num_caracs_1: ola_num_caracs_1.o num_caracs.o
 	gcc -o ola_num_caracs_1 ola_num_caracs_1.o num_caracs.o
 ola_num_caracs_1.o: ola_num_caracs_1.c num_caracs.h
 	gcc -c ola_num_caracs_1.c
-
 ola_num_caracs_2: ola_num_caracs_2.o num_caracs.o
 	gcc -o ola_num_caracs_2 ola_num_caracs_2.o num_caracs.o
 ola_num_caracs_2.o: ola_num_caracs_2.c num_caracs.h
