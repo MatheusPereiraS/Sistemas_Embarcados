@@ -40,7 +40,7 @@ void le_arq_texto(char *nome_arquivo, char *conteudo)
 
 	tam_arq = tam_arq_texto(nome_arquivo);
 	fread(conteudo, sizeof(char), tam_arq, texto);
-//	strcpy(conteudo, "teste");
-
+	conteudo[tam_arq] = '\0';
+ 
 	fclose(texto);
 }
