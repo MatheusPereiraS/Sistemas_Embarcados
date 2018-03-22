@@ -3,5 +3,18 @@
 
 int num_caracs(char *string)
 {
-	return strlen(string);	
+	int contador = 0;
+	int limite = 1000;
+	int contagem = 0;
+
+	for(contador = 0; limite; contador++)
+	{
+		if(string[contador] != '\0')
+		{
+			contagem++;
+		}
+		else
+			break;
+	}
+	return contagem;
 }
