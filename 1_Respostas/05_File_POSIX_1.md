@@ -52,4 +52,4 @@
 
 	(e) Quais bibliotecas devem ser incluídas no código para poder utilizar as funções acima?
 
-		R: Padrões não pertencem a nenhuma biblioteca em C.
+		R: <fcntl.h> e <unistd.h>.
